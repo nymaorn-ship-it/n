@@ -1,0 +1,6 @@
+{
+  "name": "StockMaster Inventory",
+  "description": "ระบบจัดการสต็อกสินค้า แจ้งเตือนสินค้าใกล้หมด บันทึกรับเข้า-เบิกสินค้า พร้อมเชื่อมต่อ Google Sheets และออกรายงาน",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
